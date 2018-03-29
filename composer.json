@@ -1,0 +1,19 @@
+{
+  "name": "nsivanoly/wordpress-featured-images-rest-api",
+  "description": "Wordpress Featured Images Rest
+This plugin adds a featured_image field to the post object that contains the available image sizes and urls, allowing you to get this information without making a second request.",
+  "keywords": [
+    "Featured Image REST",
+    "Wordpress",
+    "Wordpress Plugin"
+  ],
+  "license": "GPL-2.0-only",
+  "authors": [
+    {
+      "name": "N Sivanoly",
+      "email": "nsivanoly@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {}
+}
